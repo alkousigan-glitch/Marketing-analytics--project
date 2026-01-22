@@ -25,4 +25,4 @@ Marketing Campaign dataset with customer demographics, spending behavior, and ca
 To help marketing teams target the right customers and improve campaign ROI.
 
 ## 👤 Author
-Koushik A
+Kousigan A L
