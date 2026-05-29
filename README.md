@@ -1,19 +1,19 @@
 # Marketing Analytics Project
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes a marketing campaign dataset to understand customer behavior and predict campaign response using Python.
 
-## 📂 Dataset
+##  Dataset
 Marketing Campaign dataset with customer demographics, spending behavior, and campaign responses.
 
-## 🔍 Key Steps
+##  Key Steps
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Correlation Analysis
 - Campaign Response Prediction (Upcoming)
 
-## 🛠 Tools & Libraries
+##  Tools & Libraries
 - Python
 - Pandas
 - NumPy
