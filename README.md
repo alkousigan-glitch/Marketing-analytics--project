@@ -19,7 +19,6 @@ Marketing Campaign dataset with customer demographics, spending behavior, and ca
 - NumPy
 - Matplotlib
 - Seaborn
--
 
 ## Objective
 To help marketing teams target the right customers and improve campaign ROI.
